@@ -101,7 +101,7 @@ For detailed documentation, please visit [afet.readthedocs.io](https://afet.read
 We welcome contributions from the community! Here's how you can help:
 
 1. **Report bugs**: Submit issues on GitHub
-2. **Fix issues**: Check out the [good first issues](https://github.com/yourusername/afet/labels/good%20first%20issue)
+2. **Fix issues**: Check out the [good first issues](https://github.com/TaimoorKhan10afet/labels/good%20first%20issue)
 3. **Add features**: Implement new metrics or visualizations
 4. **Improve docs**: Help enhance our documentation
 5. **Share feedback**: Let us know how you're using AFET
@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-For questions or feedback, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please open an issue or contact taimoorkhaniajaznabi2@gmail.com
 
 ## 🤝 Contributors
 
