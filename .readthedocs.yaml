@@ -1,0 +1,66 @@
+# Read the Docs configuration file
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
+
+version: 2
+
+# Build documentation in the docs/ directory with Sphinx
+sphinx:
+  configuration: docs/conf.py
+  fail_on_warning: true
+
+# Build documentation with MkDocs
+#mkdocs:
+#  configuration: mkdocs.yml
+
+# Optionally set the version of Python and requirements required to build your docs
+python:
+  version: "3.10"
+  install:
+    - requirements: requirements.txt
+    - requirements: docs/requirements.txt
+  system_packages: true
+
+# Optionally build your docs in additional formats such as PDF
+formats:
+  - pdf
+  - epub
+
+# Optionally set the version of Node.js to use for building docs with Node.js
+#build:
+#  nodejs: 16
+
+# Optionally set the version of Ruby to use for building docs with Ruby
+#ruby:
+#  version: 2.7
+
+# Optionally set the version of Go to use for building docs with Go
+#go:
+#  version: 1.17
+
+# Optionally set the version of Rust to use for building docs with Rust
+#rust:
+#  version: 1.56
+
+# Optionally set the version of PHP to use for building docs with PHP
+#php:
+#  version: 8.0
+
+# Optionally set the version of .NET to use for building docs with .NET
+#dotnet:
+#  version: 6.0
+
+# Optionally set the version of Java to use for building docs with Java
+#java:
+#  version: 17
+
+# Optionally set the version of C++ to use for building docs with C++
+#cpp:
+#  version: 17
+
+# Optionally set the version of R to use for building docs with R
+#r:
+#  version: 4.1
+
+# Optionally set the version of Julia to use for building docs with Julia
+#julia:
+#  version: 1.7
