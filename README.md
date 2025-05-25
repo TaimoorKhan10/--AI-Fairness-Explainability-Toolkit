@@ -5,7 +5,7 @@
 [![Build Status](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/actions)
 [![Documentation Status](https://readthedocs.org/projects/ai-fairness-toolkit/badge/?version=latest)](https://ai-fairness-toolkit.readthedocs.io/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![PyPI version](https://badge.fury.io/py/ai-fairness-toolkit.svg)](https://badge.fury.io/py/ai-fairness-toolkit)
+[![PyPI](https://img.shields.io/pypi/v/ai-fairness-toolkit?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/ai-fairness-toolkit/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 ## 🌟 Overview
