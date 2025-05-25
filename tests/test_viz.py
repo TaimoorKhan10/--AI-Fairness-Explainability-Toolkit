@@ -5,11 +5,18 @@ Tests for the visualization module.
 import numpy as np
 import pandas as pd
 import pytest
+import sys
+import os
+from pathlib import Path
+
+# Add the project root to the path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.datasets import make_classification
 
 # Import visualization components to test
-from afet.viz import (
+from afet.viz.interactive_plots import (
     FairnessDashboard,
     ThresholdAnalysis,
     plot_confusion_matrices

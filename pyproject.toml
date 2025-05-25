@@ -3,23 +3,25 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "afet"
+name = "ai-fairness-toolkit"
 version = "0.1.0"
-description = "AI Fairness and Explainability Toolkit"
+description = "A comprehensive toolkit for evaluating and improving AI model fairness and explainability"
 readme = "README.md"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "Taimoor Khan", email = "your.email@example.com"},
 ]
 requires-python = ">=3.8"
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Science/Research",
+    "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
-    "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
+    "Topic :: Scientific/Engineering",
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Software Development :: Libraries :: Python Modules",
 ]
 dependencies = [
     "numpy>=1.20.0",
@@ -29,6 +31,10 @@ dependencies = [
     "matplotlib>=3.5.0",
     "seaborn>=0.11.0",
     "tqdm>=4.0.0",
+    "scipy>=1.7.0",
+    "joblib>=1.1.0",
+    "requests>=2.26.0",
+    "pyyaml>=6.0.0",
 ]
 
 [project.optional-dependencies]
@@ -49,9 +55,11 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/afet"
-Documentation = "https://afet.readthedocs.io"
-Source = "https://github.com/yourusername/afet"
+Homepage = "https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit"
+Documentation = "https://ai-fairness-toolkit.readthedocs.io/"
+Repository = "https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit"
+Issues = "https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/issues"
+Changelog = "https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/blob/main/CHANGELOG.md"
 
 [tool.black]
 line-length = 88
