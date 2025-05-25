@@ -1,16 +1,16 @@
-# AI Fairness and Explainability Toolkit (AFET)
+# AI Fairness and Explainability Toolkit
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/yourusername/afet/actions/workflows/tests.yml/badge.svg)](https://github.com/yourusername/afet/actions)
-[![Documentation Status](https://readthedocs.org/projects/afet/badge/?version=latest)](https://afet.readthedocs.io/)
+[![Build Status](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/actions)
+[![Documentation Status](https://readthedocs.org/projects/ai-fairness-toolkit/badge/?version=latest)](https://ai-fairness-toolkit.readthedocs.io/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![PyPI version](https://badge.fury.io/py/afet.svg)](https://badge.fury.io/py/afet)
+[![PyPI version](https://badge.fury.io/py/ai-fairness-toolkit.svg)](https://badge.fury.io/py/ai-fairness-toolkit)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 ## 🌟 Overview
 
-The AI Fairness and Explainability Toolkit (AFET) is an open-source platform designed to evaluate, visualize, and improve AI models with a focus on fairness, explainability, and ethical considerations. Unlike traditional benchmarking tools that focus primarily on performance metrics, AFET helps developers understand and mitigate bias, explain model decisions, and ensure ethical AI deployment.
+The AI Fairness and Explainability Toolkit is an open-source platform designed to evaluate, visualize, and improve AI models with a focus on fairness, explainability, and ethical considerations. Unlike traditional benchmarking tools that focus primarily on performance metrics, this toolkit helps developers understand and mitigate bias, explain model decisions, and ensure ethical AI deployment.
 
 ## 🎯 Mission
 
@@ -32,16 +32,16 @@ To democratize ethical AI development by providing tools that make fairness and 
 
 ```bash
 # Install from PyPI
-pip install afet
+pip install ai-fairness-toolkit
 
 # Or install from source
-pip install git+https://github.com/yourusername/afet.git
+pip install git+https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit.git
 ```
 
 ### Basic Usage
 
 ```python
-from afet import FairnessAnalyzer, BiasMitigator, ModelExplainer
+from ai_fairness_toolkit import FairnessAnalyzer, BiasMitigator, ModelExplainer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.datasets import fetch_openml
 import pandas as pd
@@ -68,8 +68,8 @@ analyzer.visualize().show()
 ## 🏗️ Project Structure
 
 ```
-afet/
-├── afet/                     # Main package
+ai-fairness-toolkit/
+├── ai_fairness_toolkit/      # Main package
 │   ├── core/                 # Core functionality
 │   │   ├── metrics/          # Fairness and performance metrics
 │   │   ├── bias_mitigation/  # Bias mitigation techniques
@@ -94,24 +94,24 @@ afet/
 
 ## 📚 Documentation
 
-For detailed documentation, please visit [afet.readthedocs.io](https://afet.readthedocs.io/).
+For detailed documentation, please visit [ai-fairness-toolkit.readthedocs.io](https://ai-fairness-toolkit.readthedocs.io/).
 
 ## 🤝 How to Contribute
 
 We welcome contributions from the community! Here's how you can help:
 
 1. **Report bugs**: Submit issues on GitHub
-2. **Fix issues**: Check out the [good first issues](https://github.com/yourusername/afet/labels/good%20first%20issue)
+2. **Fix issues**: Check out the [good first issues](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/labels/good%20first%20issue)
 3. **Add features**: Implement new metrics or visualizations
 4. **Improve docs**: Help enhance our documentation
-5. **Share feedback**: Let us know how you're using AFET
+5. **Share feedback**: Let us know how you're using the toolkit
 
 ### Development Setup
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/afet.git
-cd afet
+git clone https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit.git
+cd AI-Fairness-Explainability-Toolkit
 
 # Create and activate virtual environment
 python -m venv venv
@@ -146,10 +146,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Fairlearn](https://fairlearn.org/)
 - [InterpretML](https://interpret.ml/)
 - [SHAP](https://shap.readthedocs.io/)
+- [Responsible AI Toolbox](https://responsibleaitoolbox.ai/)
 
 ## 📬 Contact
 
-For questions or feedback, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please open an issue on our [GitHub repository](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/issues).
 
 ## 🤝 Contributors
 
