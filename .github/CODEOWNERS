@@ -1,0 +1,12 @@
+# Default owners for everything in the repo
+* @TaimoorKhan10
+
+# Core functionality owners
+afet/core/ @TaimoorKhan10
+
+tests/ @TaimoorKhan10
+
+docs/ @TaimoorKhan10
+
+# GitHub Actions workflows
+.github/workflows/ @TaimoorKhan10
