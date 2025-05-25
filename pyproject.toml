@@ -7,7 +7,6 @@ name = "ai-fairness-toolkit"
 version = "0.1.1"
 description = "A comprehensive toolkit for evaluating and improving AI model fairness and explainability"
 readme = "README.md"
-description-file = "README.md"
 authors = [
     {name = "Taimoor Khan", email = "taimoorkhaniajaznabi2@gmail.com"},
 ]
