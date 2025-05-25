@@ -35,7 +35,7 @@ To democratize ethical AI development by providing tools that make fairness and 
 pip install afet
 
 # Or install from source
-pip install git+https://github.com/yourusername/afet.git
+pip install git+https://github.com/TaimoorKhan10/afet.git
 ```
 
 ### Basic Usage
