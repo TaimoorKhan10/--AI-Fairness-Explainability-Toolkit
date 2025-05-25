@@ -17,8 +17,10 @@ To democratize ethical AI development by providing tools that make fairness and 
 ## ✨ Key Features
 
 - **Comprehensive Fairness Assessment**: Evaluate models across different demographic groups using multiple fairness metrics
+- **Intersectional Fairness Analysis**: Analyze how multiple protected attributes interact to affect model outcomes
 - **Bias Mitigation**: Implement pre-processing, in-processing, and post-processing techniques
-- **Interactive Visualization**: Explore model behavior with interactive dashboards, radar plots, and other visualizations
+- **Interactive Visualization**: Explore model behavior with interactive dashboards, radar plots, heatmaps, and other visualizations
+- **Synthetic Data Generation**: Create datasets with controlled bias for testing fairness metrics and mitigation techniques
 - **Model Comparison**: Compare multiple models across fairness and performance metrics
 - **Explainability Tools**: Understand model decisions with various XAI techniques
 - **Production-Ready**: Easy integration with existing ML workflows
