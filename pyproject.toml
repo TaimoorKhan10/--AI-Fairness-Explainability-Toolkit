@@ -4,9 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ai-fairness-toolkit"
-version = "0.1.0"
+version = "0.1.1"
 description = "A comprehensive toolkit for evaluating and improving AI model fairness and explainability"
 readme = "README.md"
+long-description = "file: README.md"
+long-description-content-type = "text/markdown"
 authors = [
     {name = "Taimoor Khan", email = "your.email@example.com"},
 ]
