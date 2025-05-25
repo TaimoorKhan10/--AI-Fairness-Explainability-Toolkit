@@ -2,6 +2,21 @@
 
 Thank you for your interest in contributing to AFET! This document provides guidelines and instructions for contributing to the project.
 
+## Table of Contents
+- [Code of Conduct](#code-of-conduct)
+- [Ways to Contribute](#-ways-to-contribute)
+- [Development Workflow](#-development-workflow)
+- [Code Style](#-code-style)
+- [Testing](#-testing)
+- [Documentation](#-documentation)
+- [Pull Request Process](#-pull-request-process)
+- [Reporting Issues](#-reporting-issues)
+- [Getting Help](#-getting-help)
+
+## Code of Conduct
+
+This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
 ## 🌟 Ways to Contribute
 
 There are many ways to contribute to AFET, regardless of your background or expertise:
