@@ -18,7 +18,7 @@ To democratize ethical AI development by providing tools that make fairness and 
 
 - **Comprehensive Fairness Assessment**: Evaluate models across different demographic groups using multiple fairness metrics
 - **Bias Mitigation**: Implement pre-processing, in-processing, and post-processing techniques
-- **Interactive Visualization**: Explore model behavior with interactive dashboards and plots
+- **Interactive Visualization**: Explore model behavior with interactive dashboards, radar plots, and other visualizations
 - **Model Comparison**: Compare multiple models across fairness and performance metrics
 - **Explainability Tools**: Understand model decisions with various XAI techniques
 - **Production-Ready**: Easy integration with existing ML workflows
@@ -99,11 +99,7 @@ For detailed documentation, please visit [ai-fairness-toolkit.readthedocs.io](ht
 We welcome contributions from the community! Here's how you can help:
 
 1. **Report bugs**: Submit issues on GitHub
-<<<<<<< HEAD
 2. **Fix issues**: Check out the [good first issues](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/labels/good%20first%20issue)
-=======
-2. **Fix issues**: Check out the [good first issues](https://github.com/TaimoorKhan10afet/labels/good%20first%20issue)
->>>>>>> efb3c82aa74411c60ac4c0c280c3bc35156e58fc
 3. **Add features**: Implement new metrics or visualizations
 4. **Improve docs**: Help enhance our documentation
 5. **Share feedback**: Let us know how you're using the toolkit
@@ -152,11 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-<<<<<<< HEAD
-For questions or feedback, please open an issue on our [GitHub repository](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/issues).
-=======
-For questions or feedback, please open an issue or contact taimoorkhaniajaznabi2@gmail.com
->>>>>>> efb3c82aa74411c60ac4c0c280c3bc35156e58fc
+For questions or feedback, please open an issue on our [GitHub repository](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/issues) or contact taimoorkhaniajaznabi2@gmail.com.
 
 ## 🤝 Contributors
 
