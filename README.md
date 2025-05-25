@@ -2,8 +2,10 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/TaimoorKhan10/AI-Fairness-Explainability-Toolkit/actions)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![PyPI](https://img.shields.io/pypi/v/ai-fairness-toolkit?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/ai-fairness-toolkit/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15512041.svg)](https://doi.org/10.5281/zenodo.15512041)
 
 ## 🌟 Overview
 
