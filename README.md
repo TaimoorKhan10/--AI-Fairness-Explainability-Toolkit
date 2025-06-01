@@ -26,6 +26,7 @@ To democratize ethical AI development by providing tools that make fairness and 
 - **Production-Ready**: Easy integration with existing ML workflows
 - **Extensible Architecture**: Add custom metrics and visualizations
 
+
 ## 🚀 Quick Start
 
 ### Installation
