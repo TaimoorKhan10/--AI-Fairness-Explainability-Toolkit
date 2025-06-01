@@ -8,6 +8,7 @@ machine learning models with a focus on fairness and interpretability.
 from .interactive_plots import FairnessDashboard, ThresholdAnalysis, plot_confusion_matrices
 from .fairness_radar import FairnessRadar, plot_fairness_radar
 from .fairness_radar_enhanced import FairnessRadarEnhanced
+from .intersectional_heatmap import IntersectionalHeatmap, plot_intersectional_heatmap, plot_multi_metric_heatmaps
 
 __all__ = [
     'FairnessDashboard',
@@ -15,5 +16,8 @@ __all__ = [
     'plot_confusion_matrices',
     'FairnessRadar',
     'plot_fairness_radar',
-    'FairnessRadarEnhanced'
+    'FairnessRadarEnhanced',
+    'IntersectionalHeatmap',
+    'plot_intersectional_heatmap',
+    'plot_multi_metric_heatmaps'
 ]
